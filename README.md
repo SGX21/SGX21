@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **guptasahitya2002@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/gupta/Downloads/SahityaCV%20(1).pdf](file:///C:/Users/gupta/Downloads/SahityaCV%20(1).pdf)
+- 📄 Know about my experiences (file:///C:/Users/gupta/Downloads/SahityaCV%20(1).pdf)
 
 - ⚡ Fun fact **National Shooter, Music Enthusiast, College Drummer, Percussionist, 650Rider**
 
