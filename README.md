@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **guptasahitya2002@gmail.com**
 
-- 📄 Know about my experiences "https://drive.google.com/drive/u/0/my-drive?hl=en"
+- 📄 Know about my experiences **https://drive.google.com/file/d/1ZFHQdWVWJqCrpabBNNH-R6Z1EAUTako_/view?usp=drivesdk**
 
 - ⚡ Fun fact **National Shooter, Music Enthusiast, College Drummer, Percussionist, 650Rider**
 
