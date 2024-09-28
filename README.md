@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sgx21&label=Profile%20views&color=0e75b6&style=flat" alt="sgx21" /> </p>
 
-- 🔭 I’m currently working on **Vintage-State (MERN Stack)**
+- 🔭 I’m currently working on **Deploying Webapps on AWS ECS with Terraform**
 
 - 🌱 I’m currently learning **Distributed Ledger Technology**
 
-- 💬 Ask me about **Web Development, Blockchain Technology**
+- 💬 Ask me about **Devops, Blockchain Technology**
 
 - 📫 How to reach me **guptasahitya2002@gmail.com**
 
