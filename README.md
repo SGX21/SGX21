@@ -1,34 +1,119 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Sahitya Gupta</h1>
-<h3 align="center">Currently an undergrad student at NIT Kurukshetra</h3>
+```
+╔══════════════════════════════════════════════════════════════╗
+║            DevOps Engineer  ·  FinTech Infrastructure        ║
+║         Cloud Security  ·  Compliance  ·  SRE Tooling        ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sgx21&label=Profile%20views&color=0e75b6&style=flat" alt="sgx21" /> </p>
+# Sahitya Gupta
 
-- 🔭 I’m currently working on **Deploying Webapps on AWS ECS with Terraform**
+**Building self-healing, audit-safe infrastructure for FinTech.**  
+DevOps Engineer @ [Orocorp Technologies](https://orocorp.in) · NIT Kurukshetra Alum
 
-- 🌱 I’m currently learning **Distributed Ledger Technology**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-guptasahitya-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/guptasahitya)
+[![Email](https://img.shields.io/badge/Email-guptasahitya2002@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:guptasahitya2002@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=sgx21&label=Profile+Views&color=1A56DB&style=flat-square)](https://github.com/sgx21)
 
-- 💬 Ask me about **Devops, Blockchain Technology**
+</div>
 
-- 📫 How to reach me **guptasahitya2002@gmail.com**
+---
 
-- 📄 Know about my experiences **https://drive.google.com/file/d/1BexLxgViW5t6D24X525isi_3ZeK1Q5mv/view?usp=drive_link**
+## ⚡ What I'm Working On
 
-- ⚡ Fun fact **National Shooter, Music Enthusiast, College Drummer, Percussionist, 650Rider**
+- 🏗️ **At Orocorp** — AWS/ECS infrastructure for FinTech & NBFC clients under RBI compliance
+- 🤖 **Auto-Healer CI/CD** — GitHub Actions pipeline that self-diagnoses failures, calls Claude AI for RCA, and opens a fix PR autonomously
+- 📟 **Incident Response System** — AI pipeline (Loki → Git blame → Claude → Slack) delivering root cause analysis in < 60 seconds
 
-<p><img align="right" src="https://blog.fasset.com/wp-content/uploads/2020/12/1080-Blog-featured-Crypto-vs-2.gif" width=500><p/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/guptasahitya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guptasahitya" height="30" width="40" /></a>
-<a href="https://instagram.com/s.ahi.tya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.ahi.tya" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🏆 Highlights
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/guptasahitya"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="guptasahitya" /></a></p><br><br>
+| What | Impact |
+|------|--------|
+| ISO 27001 certification | Achieved for live FinTech platform via VAPT + Sprinto |
+| Infrastructure cost reduction | **50%** — ECS microservices consolidated + optimised |
+| CI/CD pipeline speedup | **60%** less manual deployment time with Trivy security gates |
+| Incident detection | **40% faster** across 50+ production APIs via Gatus dashboards |
+| RBI compliance | Zero findings at go-live for Tenmark Capital (NBFC) |
+| On-call automation | Self-escalating pager at 10→30→60 min with zero manual entry |
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sgx21&show_icons=true&locale=en&layout=compact" alt="sgx21" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sgx21&" alt="sgx21" /></p>
+## 🛠️ Tech Stack
+
+**Cloud & Infrastructure**
+```
+AWS (EC2 · ECS · RDS · S3 · IAM · ALB · CloudWatch)
+Terraform · Ansible · Kubernetes · Helm · Docker
+```
+
+**CI/CD & Security**
+```
+GitHub Actions · Argo CD · Trivy · Docker Scout
+VAPT · ISO 27001 · RBI Compliance · SSL/TLS
+```
+
+**Observability**
+```
+Prometheus · Grafana · Loki · OpenTelemetry
+Gatus · Uptime Kuma · Nginx
+```
+
+**Languages & Runtimes**
+```
+Node.js · JavaScript · Python · Bash/Shell · C/C++
+```
+
+**Databases**
+```
+PostgreSQL · MySQL · MongoDB · Redis
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 🔁 [Auto-Healer CI/CD Pipeline](https://github.com/sgx21)
+> *GitHub Actions · Claude Opus · Node.js · Trivy · GitHub CLI*
+
+Autonomous pipeline that pulls CI failure logs → sends to Claude AI for root cause analysis → opens a fix PR with patch. Human-in-the-loop `/approve-fix` or `/reject-fix` gate ensures zero unreviewed code reaches the branch — audit-safe for FinTech compliance.
+
+### 📟 [Automated Incident Response System](https://github.com/sgx21)
+> *Node.js · Grafana Loki · Slack API · Claude AI · PostgreSQL · Redis · Docker*
+
+Eliminated 100% of manual log triage. Ingests Loki logs → runs Git blame to find the responsible commit → delivers Claude-generated RCA to Slack in under 60 seconds. Self-escalating on-call pager (Bull + Redis) auto-pages engineers at 10→30→60 min thresholds with real-time MTTR/MTTA tracking.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=sgx21&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sgx21&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+
+</div>
+
+---
+
+## 📝 Writing
+
+I write about DevOps, cloud infrastructure, compliance automation, and making on-call less miserable.  
+Find me on **[Medium](https://medium.com/@guptasahitya2002)** · **[LinkedIn](https://linkedin.com/in/guptasahitya)**
+
+---
+
+## ⚡ Beyond the Terminal
+
+🎯 National Shooter &nbsp;·&nbsp; 🥁 College Drummer & Percussionist &nbsp;·&nbsp; 🏍️ 650 Rider &nbsp;·&nbsp; 🎵 Music Enthusiast
+
+---
+
+<div align="center">
+
+*If my infrastructure is down, it's already fixing itself.*
+
+</div>
