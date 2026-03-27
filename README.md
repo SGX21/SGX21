@@ -12,7 +12,7 @@
 **Building self-healing, audit-safe infrastructure for FinTech.**  
 DevOps Engineer @ [Orocorp Technologies](https://orocorp.in) · NIT Kurukshetra Alum
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-guptasahitya-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/guptasahitya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sahityagupta0-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/guptasahitya)
 [![Email](https://img.shields.io/badge/Email-guptasahitya2002@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:guptasahitya2002@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=sgx21&label=Profile+Views&color=1A56DB&style=flat-square)](https://github.com/sgx21)
 
